@@ -15,7 +15,7 @@ INCS = ${GL_INCS}
 LIBS = ${GL_LIBS}
 
 # flags
-CFLAGS = ${INCS} -Wall -O3
+CFLAGS = ${INCS} -std=gnu99 -Wall -O3
 LDFLAGS = ${LIBS}
 
 # compiler and linker
