@@ -1,0 +1,7 @@
+PARE
+====
+
+Silly particle visualisation in `C` & `OpenGL`.
+
+	$ make
+	$ ./pare
